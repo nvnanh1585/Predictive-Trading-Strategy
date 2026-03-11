@@ -156,3 +156,6 @@ Báo cáo đánh giá:
 
 * Khả năng thích nghi của chiến lược trước **các cú sốc thông tin**
 * Độ linh hoạt của mô hình khi thị trường biến động
+
+---
+**Repository chỉ bao gồm dataset, báo cáo và mô tả dự án; code đầy đủ được cung cấp khi có yêu cầu**
